@@ -1,0 +1,14 @@
+F:\S A LA H\c++ pro\insertion sort\insertion sort\bin\Debug\netcoreapp3.1\insertion sort.exe
+F:\S A LA H\c++ pro\insertion sort\insertion sort\bin\Debug\netcoreapp3.1\insertion sort.deps.json
+F:\S A LA H\c++ pro\insertion sort\insertion sort\bin\Debug\netcoreapp3.1\insertion sort.runtimeconfig.json
+F:\S A LA H\c++ pro\insertion sort\insertion sort\bin\Debug\netcoreapp3.1\insertion sort.runtimeconfig.dev.json
+F:\S A LA H\c++ pro\insertion sort\insertion sort\bin\Debug\netcoreapp3.1\insertion sort.dll
+F:\S A LA H\c++ pro\insertion sort\insertion sort\bin\Debug\netcoreapp3.1\insertion sort.pdb
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.csproj.AssemblyReference.cache
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.GeneratedMSBuildEditorConfig.editorconfig
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.AssemblyInfoInputs.cache
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.AssemblyInfo.cs
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.csproj.CoreCompileInputs.cache
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.dll
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.pdb
+F:\S A LA H\c++ pro\insertion sort\insertion sort\obj\Debug\netcoreapp3.1\insertion sort.genruntimeconfig.cache
